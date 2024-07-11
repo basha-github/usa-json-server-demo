@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "100",
+      "name": "Umar",
+      "email": "umar@gmail.com",
+      "phone": "9845098450"
+    },
+    {
+      "id": "200",
+      "name": "Amar",
+      "email": "amr@gmail.com",
+      "phone": "9845098111"
+    },
+    {
+      "id": "300",
+      "name": "Shyam",
+      "email": "shyam@gmail.com",
+      "phone": "9845098999"
+    },
+    {
+      "id": "400",
+      "name": "Ramya",
+      "email": "ramya@gmail.com",
+      "phone": "7775098450"
+    },
+    {
+      "id": "5b6d",
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090"
+    }
+  ]
+}
